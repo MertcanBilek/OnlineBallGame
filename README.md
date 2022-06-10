@@ -1,3 +1,3 @@
-# Online-Top-Oyunu
+# Online Ball Game
 
-Two player ball game
+Multiplayer ball game
