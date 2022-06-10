@@ -1,2 +1,3 @@
 # Online-Top-Oyunu
-İki kişilik bir top oyunu
+
+Two player ball game
